@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Umut Duygu / Site Title"
+title                    : "Umut Duygu"
 title_separator          : "-"
 name                     : &name "Umut Duygu"
 description              : 
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/UmutDuygu"
+  github           : "UmutDuygu"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/umutduygu/"
+  linkedin         : "umutduygu"
   orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/umut_duyguu"
+  twitter          : "umut_duyguu"
   vine             :
   weibo            :
   xing             :
