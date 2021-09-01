@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.A. International Relations, Koç University, 2020
-* B.A. History, Koç University 2020 (Double Major)
-* Exchange Student, International Relations&History,San Francisco State University, Fall '17
-* M.A. in Political Science, Sabancı University, 2022 
+* B.A. International Relations,[Koç University](https://www.ku.edu.tr/en/), 2020
+* B.A. History, [Koç University](https://www.ku.edu.tr/en/) 2020 (Double Major)
+* Exchange Student, International Relations&History,[San Francisco State University ](https://www.sfsu.edu/), Fall '17
+* M.A. in Political Science, [Sabancı University](https://www.sabanciuniv.edu/en/), 2022  
 
 Work experience
 ======
