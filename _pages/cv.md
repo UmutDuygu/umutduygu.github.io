@@ -53,7 +53,8 @@ Work experience
     
     •Responsible for communications between the field operators and headquarters
   
-   *Sabancı University, Istanbul Policy Center, Intern, Istanbul, 2018
+   
+   * Sabancı University, Istanbul Policy Center, Intern, Istanbul, 2018
    
    • Took part in research operations on academic articles of member scholars mainly on democratization and climate change.
    
@@ -67,38 +68,18 @@ Work experience
     •Content creating and contributing to the business development processes
   
   
-    * Hürriyet Newspaper (Doğan Media), Special News, Intern- İstanbul, Turkey, 2017
+  * Hürriyet Newspaper (Doğan Media), Special News, Intern- İstanbul, Turkey, 2017
   
     •Participated in the news research team, conducted interviews both for daily news and feature stories.
     
     •Presence in press conferences as the responsible reporter
     
     •Conducted interviews with scholars Associate Professor Berat Haznedaroğlu from Boğaziçi University and Burak Avcı from Max Planck Institute for Marine Biology on the news story titled: ["The new pandemic? Glaciers are melting and ancient viruses are awakening."](https://www.hurriyet.com.tr/gundem/buzullar-ediyor-on-binlerce-yillik-virusler-uyaniyor-40531973) Which has been featured on the first page of the Hürriyet Newspaper (27 July 2017).
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  *Hürriyet Newspaper (Doğan Media), Special News, Intern- İstanbul, Turkey, 2017
-  
-       •Participated in the news research team, conducted interviews both for daily news and feature stories.
-       
-       •Presence in press conferences as the responsible reporter.
-       
-       •Conducted interviews with scholars Associate Professor Berat Haznedaroğlu from Boğaziçi University and Burak Avcı from Max Planck Institute for Marine Biology on the news story titled: ["The new pandemic? Glaciers are melting and ancient viruses are awakening."](https://www.hurriyet.com.tr/gundem/buzullar-ediyor-on-binlerce-yillik-virusler-uyaniyor-40531973) Which has been featured on the first page of the Hürriyet Newspaper (27 July 2017).
-       
-  
-  *Ernst&Young, Department of Tax&Audit, Intern-İstanbul, Turkey, 2017
-  
-    •Participated in auditing processes of companies and contributed to tax calculation operations.
-  
-   
+    
+   * Ernst&Young, Department of Tax&Audit, Intern-İstanbul, Turkey, 2017
+   Participated in auditing processes of companies and contributed to tax calculation operations.
+
+
 Community Involvement Projects
 ======
 * Exchange Mentor at Koç University
