@@ -89,7 +89,7 @@ Community Involvement Projects
 
     •Responsible for the incoming exchange students from partner institutions. Assisted incoming exchange students on their adaptation process to Turkey by providing help on accommodation, transportation and communication.
 
-  *Student Ambassador at Suna Kıraç Library
+ * Student Ambassador at Suna Kıraç Library
   
     •Strengthened the communication between students and the Suna Kıraç Libarary’s administrative team to enhance the library services provided to students.
 
