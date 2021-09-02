@@ -13,7 +13,7 @@ Education
 ======
 * B.A. International Relations, [Koç University](https://www.ku.edu.tr/en/), 2020
 * B.A. History, [Koç University](https://www.ku.edu.tr/en/), 2020 (Double Major)
-* Exchange Student, International Relations & History,[San Francisco State University ](https://www.sfsu.edu/), Fall '17
+* Exchange Student, International Relations & History, [San Francisco State University ](https://www.sfsu.edu/), Fall '17
 * M.A. in Political Science, [Sabancı University](https://www.sabanciuniv.edu/en/), 2022  
 
 
@@ -31,6 +31,7 @@ Education
 *Research Assistant under [Prof.Dr. Ali Çarkoğlu](https://case.ku.edu.tr/akademik/uluslararasi-iliskiler/akademik-kadro/show/acarkoglu/), 2018-2020
 
   *Responsible researcher on an academic study regarding the impact of social media usage by the MP candidates and how it affects their campaign in the Turkish election context.
+  
   *Worked on MP profiling and examined the social media usage patterns of candidates with the help of SPSS.
 
 *Researcher at [VIRAL Lab](http://varollab.com/index.html) which focuses on computational social science, networks, and machine learning
@@ -76,17 +77,21 @@ Work experience
     
     •Conducted interviews with scholars Associate Professor Berat Haznedaroğlu from Boğaziçi University and Burak Avcı from Max Planck Institute for Marine Biology on the news story titled: ["The new pandemic? Glaciers are melting and ancient viruses are awakening."](https://www.hurriyet.com.tr/gundem/buzullar-ediyor-on-binlerce-yillik-virusler-uyaniyor-40531973) Which has been featured on the first page of the Hürriyet Newspaper (27 July 2017).
     
-   * Ernst&Young, Department of Tax&Audit, Intern-İstanbul, Turkey, 2017
-   Participated in auditing processes of companies and contributed to tax calculation operations.
+    
+  * Ernst&Young, Department of Tax&Audit, Intern- İstanbul, Turkey, 2017
+   
+   •Participated in auditing processes of companies and contributed to tax calculation operations.
 
 
 Community Involvement Projects
 ======
 * Exchange Mentor at Koç University
-    Responsible for the incoming exchange students from partner institutions. Assisted incoming exchange students on their adaptation process to Turkey by providing help on accommodation, transportation and communication.
+
+    •Responsible for the incoming exchange students from partner institutions. Assisted incoming exchange students on their adaptation process to Turkey by providing help on accommodation, transportation and communication.
 
   *Student Ambassador at Suna Kıraç Library
-    Strengthened the communication between students and the Suna Kıraç Libarary’s administrative team to enhance the library services provided to students.
+  
+    •Strengthened the communication between students and the Suna Kıraç Libarary’s administrative team to enhance the library services provided to students.
 
 Skills
 ======
