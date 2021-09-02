@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my website!"
+title: "Welcome to Umut Duygu's personal website!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
