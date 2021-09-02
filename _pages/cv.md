@@ -57,9 +57,9 @@ Work experience
    
   * Sabancı University, Istanbul Policy Center, Intern, Istanbul, 2018
    
-   • Took part in research operations on academic articles of member scholars mainly on democratization and climate change.
+     • Took part in research operations on academic articles of member scholars mainly on democratization and climate change.
    
-   • Contributed to the preparation of several events including City-Region: New Dynamics in Local Development – From Turkey’s Cities to Cities’ Turkey and Cosmopolitan Democracy Revisited in a World of Rising Populism, Deepening Polarization and Rampant Neoliberalism.
+     • Contributed to the preparation of several events including City-Region: New Dynamics in Local Development – From Turkey’s Cities to Cities’ Turkey and Cosmopolitan Democracy Revisited in a World of Rising Populism, Deepening Polarization and Rampant Neoliberalism.
    
   
   * Business Development Manager at uLouder Mobile App, - San Francisco, USA, 2018
