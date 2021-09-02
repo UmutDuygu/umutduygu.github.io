@@ -55,7 +55,7 @@ Work experience
     •Responsible for communications between the field operators and headquarters
   
    
-   * Sabancı University, Istanbul Policy Center, Intern, Istanbul, 2018
+  * Sabancı University, Istanbul Policy Center, Intern, Istanbul, 2018
    
    • Took part in research operations on academic articles of member scholars mainly on democratization and climate change.
    
@@ -80,7 +80,7 @@ Work experience
     
   * Ernst&Young, Department of Tax&Audit, Intern- İstanbul, Turkey, 2017
    
-   •Participated in auditing processes of companies and contributed to tax calculation operations.
+    •Participated in auditing processes of companies and contributed to tax calculation operations.
 
 
 Community Involvement Projects
