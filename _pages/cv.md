@@ -20,7 +20,7 @@ Education
  Teaching & Research Experience
 ======
  
- *[Summer Institutes in Computational Social Science (SICCS)] (https://sicss.io/2021/istanbul/) Alumni with a research titled: [Covid-19 Vaccine Perception in Turkey-Evidence from Twitter Data](https://www.youtube.com/watch?v=eW_6SSEAuS0&t=2863s) 
+ *[Summer Institutes in Computational Social Science (SICCS)](https://sicss.io/2021/istanbul/) Alumni with a research titled: [Covid-19 Vaccine Perception in Turkey-Evidence from Twitter Data](https://www.youtube.com/watch?v=eW_6SSEAuS0&t=2863s) 
 
 *Graduate Teaching Assistant for International Law (LAW311) and Constitutional Law (LAW312) at Sabancı University, 2020-2021
 
@@ -83,20 +83,24 @@ Work experience
 Community Involvement Projects
 ======
 * Exchange Mentor at Koç University
-   •Responsible for the incoming exchange students from partner institutions. Assisted incoming exchange students on their adaptation process to Turkey by providing help on accommodation, transportation and communication.
+    Responsible for the incoming exchange students from partner institutions. Assisted incoming exchange students on their adaptation process to Turkey by providing help on accommodation, transportation and communication.
 
   *Student Ambassador at Suna Kıraç Library
-   •Strengthened the communication between students and the Suna Kıraç Libarary’s administrative team to enhance the library services provided to students.
+    Strengthened the communication between students and the Suna Kıraç Libarary’s administrative team to enhance the library services provided to students.
 
 Skills
 ======
   •Python
+  
   •R
+  
   •Stata
+  
   •LaTex
  
  Languages
 ======
   •English (Advanced) TOEFL IBT: 98/120
+  
   •Spanish (Beginner)
  
