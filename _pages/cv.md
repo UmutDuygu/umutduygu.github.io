@@ -112,8 +112,7 @@ Skills
   
   •Spanish (Beginner)
   
-Languages
-======
+
 Download my [CV]('http://umutduygu.github.io/files/umutduygucv.pdf') here.
   
  
