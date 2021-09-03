@@ -108,4 +108,9 @@ Skills
   •English (Advanced) TOEFL IBT: 98/120
   
   •Spanish (Beginner)
+  
+Languages
+======
+Download my CV here: 'http://umutduygu.github.io/files/umutduygucv.pdf'
+  
  
