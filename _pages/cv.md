@@ -22,7 +22,7 @@ Education
  
  *[Summer Institutes in Computational Social Science (SICCS)](https://sicss.io/2021/istanbul/) Alumni with a research titled: [Covid-19 Vaccine Perception in Turkey-Evidence from Twitter Data](https://www.youtube.com/watch?v=eW_6SSEAuS0&t=2863s) 
 
-*Graduate Teaching Assistant for International Law (LAW311) and Constitutional Law (LAW312) at Sabancı University, 2020-2021
+ *Researcher at [VIRAL Lab](http://varollab.com/index.html) focusing on computational social science, networks, and machine learning, 2020-Present
 
  *Research Assistant under [Prof.Dr. Murat Somer](http://mysite.ku.edu.tr/musomer/murat-somer-turkce/), 2018-2020
  
@@ -34,7 +34,8 @@ Education
   
    Worked on MP profiling and examined the social media usage patterns of candidates with the help of SPSS.
 
-*Researcher at [VIRAL Lab](http://varollab.com/index.html) which focuses on computational social science, networks, and machine learning
+
+*Graduate Teaching Assistant for International Law (LAW311) and Constitutional Law (LAW312) at Sabancı University, 2020-2021
 
 
 Work experience
