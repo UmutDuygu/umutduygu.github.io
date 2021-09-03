@@ -62,7 +62,7 @@ Work experience
      • Contributed to the preparation of several events including City-Region: New Dynamics in Local Development – From Turkey’s Cities to Cities’ Turkey and Cosmopolitan Democracy Revisited in a World of Rising Populism, Deepening Polarization and Rampant Neoliberalism.
    
   
-  * Business Development Manager at uLouder Mobile App, - San Francisco, USA, 2018
+  * Business Development Manager at [uLouder Mobile App](https://www.ulouder.com/), - San Francisco, USA, 2018
   
     •Responsible for marketing operations, had several meetings with local government offices, municipalities, and festival organization teams.
     
@@ -82,6 +82,9 @@ Work experience
    
     •Participated in auditing processes of companies and contributed to tax calculation operations.
 
+
+
+  * Recommendation Letters from all previous experiences are available upon request
 
 Community Involvement Projects
 ======
@@ -111,6 +114,6 @@ Skills
   
 Languages
 ======
-Download my CV here: '(http://umutduygu.github.io/files/umutduygucv.pdf)'
+Download my [CV]('http://umutduygu.github.io/files/umutduygucv.pdf') here.
   
  
