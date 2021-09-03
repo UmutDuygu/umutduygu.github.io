@@ -111,6 +111,6 @@ Skills
   
 Languages
 ======
-Download my CV here: 'http://umutduygu.github.io/files/umutduygucv.pdf'
+Download my CV here: '(http://umutduygu.github.io/files/umutduygucv.pdf)'
   
  
