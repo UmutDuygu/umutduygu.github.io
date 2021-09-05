@@ -20,22 +20,22 @@ Education
  **Teaching & Research Experience**
 ======
  
- *[Summer Institutes in Computational Social Science (SICCS)](https://sicss.io/2021/istanbul/) Alumni with a research titled: [Covid-19 Vaccine Perception in Turkey-Evidence from Twitter Data](https://www.youtube.com/watch?v=eW_6SSEAuS0&t=2863s) 
+ * **[Summer Institutes in Computational Social Science (SICCS)](https://sicss.io/2021/istanbul/) Alumni with a research titled: [Covid-19 Vaccine Perception in Turkey-Evidence from Twitter Data](https://www.youtube.com/watch?v=eW_6SSEAuS0&t=2863s)** 
 
- *Researcher at [VIRAL Lab](http://varollab.com/index.html) focusing on computational social science, networks, and machine learning, 2020-Present
+ * **Researcher at [VIRAL Lab](http://varollab.com/index.html) focusing on computational social science, networks, and machine learning, 2020-Present**
 
- *Research Assistant under [Prof.Dr. Murat Somer](http://mysite.ku.edu.tr/musomer/murat-somer-turkce/), 2018-2020
+ * **Research Assistant under [Prof.Dr. Murat Somer](http://mysite.ku.edu.tr/musomer/murat-somer-turkce/), 2018-2020**
  
-   Assisted Prof. Somer on his new book which touches upon the struggles of democratization & political identity with qualitative analysis, resource procurement, and literature review on relevant sources.
+    •Assisted Prof.Somer on his new book which touches upon the struggles of democratization & political identity with qualitative analysis, resource procurement, and literature review on relevant sources.
  
-*Research Assistant under [Prof.Dr. Ali Çarkoğlu](https://case.ku.edu.tr/akademik/uluslararasi-iliskiler/akademik-kadro/show/acarkoglu/), 2018-2020
+ * **Research Assistant under [Prof.Dr. Ali Çarkoğlu](https://case.ku.edu.tr/akademik/uluslararasi-iliskiler/akademik-kadro/show/acarkoglu/), 2018-2020**
 
-   Responsible researcher on an academic study regarding the impact of social media usage by the MP candidates and how it affects their campaign in the Turkish election context.
+    •Responsible researcher on an academic study regarding the impact of social media usage by the MP candidates and how it affects their campaign in the Turkish election context.
   
-   Worked on MP profiling and examined the social media usage patterns of candidates with the help of SPSS.
+    •Worked on MP profiling and examined the social media usage patterns of candidates with the help of SPSS.
 
 
-*Graduate Teaching Assistant for International Law (LAW311) and Constitutional Law (LAW312) at Sabancı University, 2020-2021
+* **Graduate Teaching Assistant for International Law (LAW311) and Constitutional Law (LAW312) at Sabancı University, 2020-2021**
 
 
 **Work experience**
