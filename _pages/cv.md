@@ -114,6 +114,6 @@ Education
   •Spanish (Beginner)
   
 
-*Download my detailed [CV]('http://umutduygu.github.io/files/umutduygucv.pdf') here.*
+*Download my detailed [CV]('/http://umutduygu.github.io/files/umutduygucv.pdf') here.*
   
  
