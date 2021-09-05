@@ -26,7 +26,7 @@ Education
 
  * **Research Assistant under [Prof.Dr. Murat Somer](http://mysite.ku.edu.tr/musomer/murat-somer-turkce/), 2018-2020**
  
-    •Assisted Prof.Somer on his new book which touches upon the struggles of democratization & political identity with qualitative analysis, resource procurement, and literature review on relevant sources.
+    •Assisted Prof. Somer on his new book which touches upon the struggles of democratization & political identity with qualitative analysis, resource procurement, and literature review on relevant sources.
  
  * **Research Assistant under [Prof.Dr. Ali Çarkoğlu](https://case.ku.edu.tr/akademik/uluslararasi-iliskiler/akademik-kadro/show/acarkoglu/), 2018-2020**
 
