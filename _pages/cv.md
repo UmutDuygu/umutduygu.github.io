@@ -87,9 +87,6 @@ Education
 
 
 
-
-  * *Recommendation Letters from all previous experiences are available upon request.*
-
 **Community Involvement Projects**
 ======
 * Exchange Mentor at Koç University
@@ -118,5 +115,6 @@ Education
   
 
 *Download my detailed [CV](/umutduygucv.pdf) here.*
-  
+*Recommendation Letters from all previous experiences are available upon request.*
+ 
  
