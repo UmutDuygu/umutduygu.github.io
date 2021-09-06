@@ -26,6 +26,6 @@ Research Interests
 
 •Data Journalism
 
-•Computational Social Sciences
+•Computational Social Science
 
 
