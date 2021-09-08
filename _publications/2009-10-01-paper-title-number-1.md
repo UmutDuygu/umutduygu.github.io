@@ -1,12 +1,15 @@
 ---
-title: "The new pandemic? Glaciers are melting and ancient viruses are awakening."
+title: "Paper Title Number 1"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-date: 27/07/2017
-venue: 'Hürriyet Gazetesi / Hürriyet Newspaper'
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2009-10-01
+venue: 'Journal 1'
 paperurl: 'http://umutduygu.github.io/files/paper1.pdf'
-citation: 'Duygu, U., (2017, July 27). &quot;Buzullar eriyor onbinlerce yıllık virüsler uyanıyor.&quot; <i>Hürriyet</i>.'
-
-[Find online version here](https://www.hurriyet.com.tr/gundem/buzullar-ediyor-on-binlerce-yillik-virusler-uyaniyor-40531973)
-
+citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
+This paper is about the number 1. The number 2 is left for future work.
+
+[Download paper here](http://umutduygu.github.io/files/paper1.pdf)
+
+Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
