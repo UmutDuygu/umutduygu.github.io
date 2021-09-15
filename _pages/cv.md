@@ -40,7 +40,7 @@ Education
 
 
 
-**Work experience**
+**Professional Experience**
 ======
   * **United Nations, Resident Coordinator Office, Intern- Ankara, Turkey, 2019**
   
