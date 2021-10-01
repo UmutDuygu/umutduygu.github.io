@@ -1,5 +1,5 @@
 ---
-title: "The new pandemic? Glaciers are melting and ancient viruses are awakening."
+title: "The new pandemic? Glaciers are melting and ancient viruses are awakening. (TR) "
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 date: 27-07-2017
