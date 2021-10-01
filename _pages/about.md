@@ -14,18 +14,13 @@ connections between different approaches to analyze human behavior through techn
 
 Research Interests
 ======
+•Computational Social Science
+
 •Computational Propaganda 
 
-•Digital Diplomacy
-
-•Media Studies
+•Data Journalism
 
 •Misinformation
 
 •Voter Behaviour
-
-•Data Journalism
-
-•Computational Social Science
-
 
