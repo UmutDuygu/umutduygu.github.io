@@ -8,7 +8,6 @@ paperurl: '[Find online version here](https://teyit.org/teyitpedia-turkiyede-cov
 '
 ---
 
-[Find online version here](https://teyit.org/teyitpedia-turkiyede-covid-19-asilari-toplum-tarafindan-nasil-algilaniyor)
 
 
 
