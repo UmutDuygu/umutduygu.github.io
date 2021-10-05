@@ -22,5 +22,5 @@ Research Interests
 
 •Misinformation
 
-•Voter Behaviour
+•Political Polarization
 
