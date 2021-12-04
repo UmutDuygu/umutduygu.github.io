@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
+* M.A. in Political Science, [Sabancı University](https://www.sabanciuniv.edu/en/), 2022
 * B.A. International Relations, [Koç University](https://www.ku.edu.tr/en/), 2020
 * B.A. History, [Koç University](https://www.ku.edu.tr/en/), 2020 (Double Major)
-* Exchange Student, International Relations & History, [San Francisco State University ](https://www.sfsu.edu/), Fall '17
-* M.A. in Political Science, [Sabancı University](https://www.sabanciuniv.edu/en/), 2022  
+* Exchange Student, International Relations & History, [San Francisco State University ](https://www.sfsu.edu/), Fall 2017
 
 
  **Teaching & Research Experience**
@@ -29,7 +29,7 @@ Education
 
  * **Research Assistant under [Prof.Dr. Murat Somer](http://mysite.ku.edu.tr/musomer/murat-somer-turkce/), 2018-2020**
  
-    •Assisted Prof.Somer on his new book which touches upon the struggles of democratization & political identity with qualitative analysis, resource procurement, and literature review on relevant sources.
+    •Assisted Prof.Somer on his new book which touches upon democratization & political identity with qualitative analysis, resource procurement, and literature review on relevant sources.
  
  * **Research Assistant under [Prof.Dr. Ali Çarkoğlu](https://case.ku.edu.tr/akademik/uluslararasi-iliskiler/akademik-kadro/show/acarkoglu/), 2018-2020**
 
@@ -109,9 +109,9 @@ Education
  
  **Languages**
 ======
-  •English (Advanced) TOEFL IBT: 98/120
+  •English: TOEFL IBT: 98/120
   
-  •Spanish (Beginner)
+  •Spanish: A1
   
 
 *Download my detailed [CV](/umutduygucv.pdf) here.*
