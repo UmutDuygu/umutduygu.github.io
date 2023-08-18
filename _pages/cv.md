@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.A. in Political Science, [Sabancı University](https://www.sabanciuniv.edu/en/), 2022
+* M.A. in Political Science, [Sabancı University](https://www.sabanciuniv.edu/en/), 2023
 * B.A. International Relations, [Koç University](https://www.ku.edu.tr/en/), 2020
 * B.A. History, [Koç University](https://www.ku.edu.tr/en/), 2020 (Double Major)
 * Exchange Student, International Relations & History, [San Francisco State University ](https://www.sfsu.edu/), Fall 2017
@@ -23,6 +23,7 @@ Education
  * [Summer Institutes in Computational Social Science (SICCS)](https://sicss.io/2021/istanbul/) Alumni with a research titled: [Covid-19 Vaccine Perception in Turkey-Evidence from Twitter Data](https://www.youtube.com/watch?v=eW_6SSEAuS0&t=2863s) 
 
  * Researcher at [VIRAL Lab](http://varollab.com/index.html) focusing on computational social science, networks, and machine learning, 2020-Present
+ 
 
  * Graduate Teaching Assistant for International Law (LAW311) and Constitutional Law (LAW312) at Sabancı University, 2020-2021
 
@@ -36,13 +37,12 @@ Education
     •Responsible researcher on an academic study regarding the impact of social media usage by the MP candidates and how it affects their campaign in the Turkish election context.
   
     •Worked on MP profiling and examined the social media usage patterns of candidates with the help of SPSS.
-
-
+ 
 
 
 **Professional Experience**
 ======
-  * **Delegation of the European Union to Turkey, Communications Trainee-Ankara, Turkey**
+  * **[Delegation of the European Union to Turkey](https://www.eeas.europa.eu/delegations/t%C3%BCrkiye_en?s=230), Communications Trainee-Ankara, Turkey, 2022-2023**
 
    • Improved efficiency and effectiveness of the EUD Press, Information, and Communication team by providing valuable content creation, editing, and supervision support, resulting in enhanced communication and information dissemination.
 
@@ -68,7 +68,7 @@ Education
     •Responsible for communications between the field operators and headquarters
   
    
-  * **Sabancı University, Istanbul Policy Center, Intern, Istanbul, 2018**
+  * **Sabancı University, [Istanbul Policy Center](https://ipc.sabanciuniv.edu/en), Intern, Istanbul, 2018**
    
      • Took part in research operations on academic articles of member scholars mainly on democratization and climate change.
    
@@ -119,9 +119,9 @@ Education
  
  **Languages**
 ======
-  •English: TOEFL IBT: 98/120
+  •English: TOEFL IBT: 98/120, IELTS 8.0
   
-  •Spanish: A1
+  •Spanish: B1
   
 
 *Download my detailed [CV](/umutduygucv.pdf) here.*
