@@ -42,6 +42,16 @@ Education
 
 **Professional Experience**
 ======
+  * **Delegation of the European Union to Turkey, Communications Trainee-Ankara, Turkey**
+
+   • Improved efficiency and effectiveness of the EUD Press, Information, and Communication team by providing valuable content creation, editing, and supervision support, resulting in enhanced communication and information dissemination.
+
+   • Effectively led the EUD website migration to a new domain with optimized structure and content, ensuring a smooth transition and enhancing user experience.
+
+   • Orchestrated productive coordination meetings between the EUD and EU member states in Ankara and other partners, resulting in strengthened collaboration and alignment of efforts.
+
+   • Coordinated impactful events, such as Climate Diplomacy activities, EU Information Centre events, the EU's Human Rights Film Festival in Turkey, and the associated Short Film Competition, to promote awareness, engagement, and meaningful community connections.
+
   * **United Nations, Resident Coordinator Office, Intern- Ankara, Turkey, 2019**
   
      •Responsible for note verbal writing processes to various ambassadors, NGO representatives, ministries, and other government officials.
